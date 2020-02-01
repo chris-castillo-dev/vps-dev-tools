@@ -8,7 +8,7 @@ curl -LJO https://raw.githubusercontent.com/chris-castillo-dev/vps-dev-tools/mas
 
 STEP 2: Add execution rights:
 
-chmod +x /path/to/yourscript.sh
+chmod +x setup.sh
 
 STEP 3: Run the script:
 
