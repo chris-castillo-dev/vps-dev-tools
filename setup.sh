@@ -1,5 +1,5 @@
 echo "Installing Node"
-curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 
 echo "Installing Node.js"
 sudo apt-get install nodejs
